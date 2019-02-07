@@ -1,5 +1,5 @@
 ----------------------------------------------------------------
--- Script File Name:	SQLFINALEXAMLAB
+-- Script File Name:	SQLLAB
 -- Developer:   ZACH SPICER    
 -- Creation Date:	12/3/2018
 -- Description: Create Table, Insert, Update, Delete , Alter, Create View, Create Index, Create Procedure
